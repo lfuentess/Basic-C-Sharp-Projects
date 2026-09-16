@@ -10,3 +10,4 @@ All code that I will can learn and create in this course.
   - Package Express - Branching - the console program.(packageexpress)
   - Test to loop 2 statement "While", "Do...While". (ConsoleApp1)
   - String manipulate - use StringBuider, uppercase, concatenation, etc. (StringConsoleApp)
+  - Manage Array and List in C#. (ConsoleArray)
