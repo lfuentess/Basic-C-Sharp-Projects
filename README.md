@@ -11,4 +11,5 @@ All code that I will can learn and create in this course.
   - Test to loop 2 statement "While", "Do...While". (ConsoleApp1)
   - String manipulate - use StringBuider, uppercase, concatenation, etc. (StringConsoleApp)
   - Manage Array and List in C#. (ConsoleArray)
-  - Manage Strings and Integers on the List with try/catch 
+  - Manage Strings and Integers on the List with try/catch (ConsoleApp2)
+  - Create a class. Create three methods, each of which will take one integer parameter in and return an integer. The methods should do some math operation on the received       parameter.  (ConsoleApp3)
