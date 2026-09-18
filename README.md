@@ -17,3 +17,7 @@ All code that I will can learn and create in this course.
         -A mathematical operation method of integer type.
         -A mathematical operation method of double type.
         -A mathematical operation method of string type.
+  - Create a console app with class that contains (ConsoleAppMethod)
+      Create a class. Create a method that takes two integers as parameters.
+      Make one of them optional. Have the method do a math operation and return an integer result.
+      Call the method in the class, passing in the one or two numbers entered.  
