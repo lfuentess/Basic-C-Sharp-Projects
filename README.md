@@ -21,3 +21,6 @@ All code that I will can learn and create in this course.
         - Create a class. Create a method that takes two integers as parameters.
         - Make one of them optional. Have the method do a math operation and return an integer result.
         - Call the method in the class, passing in the one or two numbers entered.  
+  - Create a class. In that class, create a void method that takes two integers as parameters. Have the method do a math operation on the first integer and display the           second integer to the screen. (ConsoleMethodClass)
+        - Call the method in the class, passing in two numbers. 
+        - Call the method in the class, specifying the parameters by name.
