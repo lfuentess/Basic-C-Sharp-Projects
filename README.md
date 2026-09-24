@@ -32,3 +32,11 @@ All code that I will can learn and create in this course.
         - Create another class called Employee and have it inherit from the Person class. Give the Employee class a             property called Id and have it be of data type int.
         - Inside of the Main method, instantiate and initialize an Employee object with a first name of “Sample” and           a last name of “Student”.
         - Call the superclass method SayName() on the Employee object.
+
+
+    - A console app that includes the following: (ConsoleAppAbstractClass)
+        - Create an abstract class called Person with two properties: string firstName and string lastName.
+        - Give it the method SayName().
+        - Create another class called Employee and have it inherit from the Person class.
+        - Implement the SayName() method inside of the Employee class.
+        - Inside the Main() method, instantiate an Employee object with firstName “Sample” and lastName “Student”. Call the SayName() method on the object.
