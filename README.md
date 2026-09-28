@@ -27,21 +27,21 @@ All code that I will can learn and create in this course.
 
 
 
-    - Create a class called Person and give it two properties of data type string. One called FirstName, the other         LastName. (ConsoleAppMetsObjs)
+  - Create a class called Person and give it two properties of data type string. One called FirstName, the other         LastName. (ConsoleAppMetsObjs)
         - Give this class a void method called SayName() that takes no parameters and simply writes the person's               full name to the console in the format of: “Name: [full name]”.
         - Create another class called Employee and have it inherit from the Person class. Give the Employee class a             property called Id and have it be of data type int.
         - Inside of the Main method, instantiate and initialize an Employee object with a first name of “Sample” and           a last name of “Student”.
         - Call the superclass method SayName() on the Employee object.
 
 
-    - A console app that includes the following: (ConsoleAppAbstractClass)
+  - A console app that includes the following: (ConsoleAppAbstractClass)
         - Create an abstract class called Person with two properties: string firstName and string lastName.
         - Give it the method SayName().
         - Create another class called Employee and have it inherit from the Person class.
         - Implement the SayName() method inside of the Employee class.
         - Inside the Main() method, instantiate an Employee object with firstName “Sample” and lastName “Student”. Call the SayName() method on the object.
      
-    - Create a console app that includes:  (AppParsingEnums)
+  - Create a console app that includes:  (AppParsingEnums)
 
         - Create an enum for the days of the week.
         - Prompt the user to enter the current day of the week.
