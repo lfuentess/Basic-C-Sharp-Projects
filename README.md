@@ -46,4 +46,15 @@ All code that I will can learn and create in this course.
         - Create an enum for the days of the week.
         - Prompt the user to enter the current day of the week.
         - Assign the value to a variable of that enum data type you just created.
-        - Wrap the above statement in a try/catch block and have it print "Please enter an actual day of the week.” to the console if an error occurs. 
+        - Wrap the above statement in a try/catch block and have it print "Please enter an actual day of the week.” to the console if an error occurs.
+
+  - create a console app that includes the following: (ConsoleAppLambda)
+        - Create an Employee class with the following properties:
+              - a. Id
+              - b. First Name
+              - c. Last Name
+
+        - In the Main() method, create a list of at least 10 employees. At least two employees should have the first name “Joe”.
+        - Using a foreach loop, create a new list of all employees with the first name “Joe”. In your comparison statement, remember to reference the property of the object you are checking.
+        - Perform the same action again, but this time with a lambda expression.
+        - Using a lambda expression, make a list of all employees with an Id number greater than 5.
