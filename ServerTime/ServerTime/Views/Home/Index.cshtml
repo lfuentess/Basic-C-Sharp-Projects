@@ -1,0 +1,10 @@
+﻿@model ServerTime.Models.ServerTimeVM
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@*Show information and the current time*@
+<div class="text-center">
+    <h1 class="display-4">The Time of Server is: </h1>
+    <h2>@Model.ServerTimeData.ToString("dd/MM/yyyy HH:mm:ss")</h2>
+</div>
